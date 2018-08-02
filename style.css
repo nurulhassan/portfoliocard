@@ -1,0 +1,59 @@
+
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+
+.round {
+    border-radius: 50%;
+    color: black;
+  }
+
+  h1 {
+    letter-spacing: 20px;
+  }
+
+  h4 {
+    letter-spacing: 2px;
+    font-family:PEIGNOT-LIGHT-Thin;
+  }
+
+  @font-face {
+    font-family: PEIGNOT-LIGHT-Thin;
+    src: url(PEIGLITE.ttf);
+}
+
+ @font-face {
+    font-family: NiteClub;
+    src: url(SOL.ttf);
+}
+
+ul.address {
+    margin-top: 2em;
+    padding-top: 0.5em;
+    
+}
+ul.address li {
+    display: block;
+
+}
+ul.address li ul.address-text li {
+    display: inline-block;
+    font-size: 1em;
+    color: #115300;
+    margin-top: 1em;
+  font-family: 'NiteClub';
+    font-weight: 800;
+    letter-spacing: 8px;
+
+}
+
+.round {
+    border-radius: 50%;
+    font-size: 40px;
+    text-align: center;
+}
+
+
